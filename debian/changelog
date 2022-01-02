@@ -1,4 +1,4 @@
-xrescat (1.2.1-1) bionic; urgency=medium
+xrescat (1.2.2-1) bionic; urgency=medium
 
   [ Ken Gilmer ]
   * Cleanup lintian warnings.
